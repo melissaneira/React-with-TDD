@@ -20,7 +20,7 @@
     "babel-loader": "^8.1.0",
     "jest": "^25.2.0",
     "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "@babel/runtime": "^7.9.2",
